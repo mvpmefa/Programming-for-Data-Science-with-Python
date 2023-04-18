@@ -2,7 +2,7 @@
 Udacity Nano degree Next Generation Tech Booster Scholarship!
 
 <p align="center">
-  <img src="SEO-Image-IR1.webp" width="350" title="hover text">
+  <img src="SEO-Image-IR1.webp" title="Udacity Nano degree Next Generation Tech Booster Scholarship!">
 </p>
 
 # Created by Maryam Vatanparast
