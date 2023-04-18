@@ -1,7 +1,7 @@
 # Programming-for-Data-Science-with-Python
 Udacity Nano degree Next Generation Tech Booster Scholarship!
 
-<img url="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5mxfy8vN7BmQIw2Tg167KB/60cca7cc0605c0449555ef3ad9148a36/SEO-Image-IR1.jpg"/>
+![plot][SEO-Image-IR1.webp]
 
 # Created by Maryam Vatanparast
 
